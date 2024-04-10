@@ -1,4 +1,4 @@
-# Execute after redirect
+# execute after redirect
 
 ```php
 <?php
