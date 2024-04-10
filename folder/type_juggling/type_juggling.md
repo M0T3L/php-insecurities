@@ -14,9 +14,9 @@
 - TRUE: "0xF" == "15"
 ===
 ### example
-´´´php
+```php
 if (Session::token() != Input::get('_token'))
 {
 throw new Illuminate\Session\TokenMismatchException;
 }
-´´´
+```
