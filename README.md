@@ -1,3 +1,5 @@
 # php-insecurities
-How developers make PHP insecure
+
+[Type Juggling](/folder/type_juggling/type_juggling.md)
+
 ![](insecurity.jpg)
