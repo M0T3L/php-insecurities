@@ -1,4 +1,4 @@
-# Loose comparisons with ==
+# loose comparisons with ==
 
 <https://www.php.net/manual/en/types.comparisons.php>
 ![comparision table](image.jpg)
