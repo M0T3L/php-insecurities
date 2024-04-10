@@ -1,4 +1,4 @@
-#Loose comparisons with ==
+# Loose comparisons with ==
 
 ![comparision table](image.jpg)
 
