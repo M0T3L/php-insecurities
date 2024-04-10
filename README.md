@@ -5,4 +5,4 @@
 - [SSRF](/folder/ssrf/ssrf.md)
 - [CRLF](/folder/crlf/crlf.md)
 
-![](insecurity.jpg)
+![](/folder/insecurity.jpg)
