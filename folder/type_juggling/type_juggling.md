@@ -1,5 +1,6 @@
 # Loose comparisons with ==
 
+<https://www.php.net/manual/en/types.comparisons.php>
 ![comparision table](image.jpg)
 
 - TRUE: "0000" == int(0)
