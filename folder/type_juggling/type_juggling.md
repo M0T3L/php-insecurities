@@ -19,9 +19,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $password = $_POST['password'];
 
         if ($username == 'admin' && $password == '0e12345') {
-            echo "Giriş başarılı";
+            echo "success";
         } else {
-            echo "Giriş başarısız";
+            echo "error";
         }
     }
 ```
